@@ -437,3 +437,5 @@
 |----------------------------|----------------------------------|-------------------------|
 |![微信赞赏](./img/reward.jpg) | ![微信群](./img/IMG_6994.JPG) | ![联系我](./img/myid.jpg)
 
+
+- [Psychology Laws Awesome](https://github.com/daligao/psychology-laws-awesome) - 40 psychology laws with interactive quiz and real-world scenario practice. Emphasizes recognition and application.
