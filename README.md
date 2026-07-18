@@ -411,6 +411,10 @@
 
 ## 心理学其他资源
 
+### Interactive Tools
+
+[Psychology Laws Awesome](https://github.com/daligao/psychology-laws-awesome) — 40 psychology laws and cognitive biases with interactive quiz (320+ real-world scenarios). Covers perception biases, social dynamics, decision-making traps, and systems thinking. Free, open source (MIT).
+
 ### Publications
 
 [APA and Affiliated Journals](https://www.apa.org/pubs/journals)
